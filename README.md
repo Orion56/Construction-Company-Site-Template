@@ -1,5 +1,5 @@
 # Construction Company Website-Template
-> A simple website with some interested features created with HTML , CSS and JavaScript for learning purposes and to practice on (Advanced DOM and Events) with JavaScript.
+> A simple website template with some interesting features created with HTML , CSS and JavaScript for learning purposes and to practice (Advanced DOM and Events) with JavaScript.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -37,7 +37,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Main layout](./Preview_main.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
