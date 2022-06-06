@@ -37,7 +37,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Main layout](./Preview_main.png)
+![Main layout](./Preview_main.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
